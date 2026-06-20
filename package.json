@@ -1,0 +1,9 @@
+{
+  "name": "pi-telegram",
+  "version": "1.0.0",
+  "description": "Telegram messaging extension for pi — send, read, and manage messages via Telegram Bot API",
+  "dependencies": {},
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
